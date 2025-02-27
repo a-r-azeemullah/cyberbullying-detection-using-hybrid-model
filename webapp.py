@@ -86,7 +86,7 @@ st.write('''***''')
 # About section
 expand_bar = st.expander("About")
 expand_bar.markdown('''
-* **Source Code:** [https://github.com/Vignesuh/cyberbullying-detection-webapp.git](https://github.com/Vignesuh/cyberbullying-detection-webapp.git)
+* **Source Code:** [https://github.com/a-r-azeemullah/cyberbullying-detection-using-hybrid-model.git]
 * **Dataset:** [https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification)
 * **Project Done By: AZEEMULLAH AR**
 ''')
